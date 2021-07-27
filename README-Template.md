@@ -1,4 +1,4 @@
-# Portfolio
+# Wise Words Quote Generator
 
 Wise Words is a quote generator application that pulls a random quote from the Type.fit API and displays a single quote on the UI. The user has two buttons available: one button for generating another random quote, and the other button to tweet the quote with the author on the user's Twitter account.
 
